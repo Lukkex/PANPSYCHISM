@@ -12,4 +12,5 @@ config_version=5
 
 config/name="PANPSYCHISM: THE NEW REALM"
 config/features=PackedStringArray("4.4", "Forward Plus")
-config/icon="res://icon.svg"
+boot_splash/image="uid://b06hfu0v2ejbl"
+config/icon="uid://c7srmo0s31t7r"
